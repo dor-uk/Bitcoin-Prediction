@@ -1,0 +1,17 @@
+Daily BTC transaction values
+Description
+Daily BTC transaction values between 2014 and 2016.
+
+Shape
+837 x 2
+
+Variables
+
+Date
+Date
+
+Open (Target variable)
+Price from the first transaction of a trading day
+
+Test Size
+Last 60 rows
